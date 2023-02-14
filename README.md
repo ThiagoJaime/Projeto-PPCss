@@ -13,8 +13,9 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha </p>
 <hr>
 
 ### Demostração Do Projeto:
-![Screenshot](Pjt5-indiv-codi.png)
-![Screenshot](Pjt5-indiv-prompt.png)
+![img-cod](https://user-images.githubusercontent.com/106777235/218802788-c3712c6b-f427-4f3d-bcbf-cda2db59cc50.png)
+![img-cod2](https://user-images.githubusercontent.com/106777235/218802830-8ae9461e-f0d4-475a-a5a4-46181f2a8ae2.png)
+
 Através do Node.js é realizado a contrução do código que recebe uma lista de propriedades de CSS (ex: background-color, color, font-size, text-align) e devolve essa lista ordenada de A-Z.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
