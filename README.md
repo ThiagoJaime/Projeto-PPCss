@@ -1,10 +1,16 @@
-# Projeto-individual-Resilia Modulo 5
-## 💻 Sobre o projeto..
-  É construído em Javascript especificando de modo que no terminal seja realizada a aplicação do código. O código deve rodar em um laço que vai receber propriedades até a pessoa digitimg2.pngar a palavra SAIR, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
-  
-  (![img2](https://user-images.githubusercontent.com/113552064/218525838-ff507d63-bce1-4a39-83ea-e0b6e8c626d1.png)
+# Ordernador de Propriedades CSS
 
-  (![img](https://user-images.githubusercontent.com/113552064/218525158-b6bf0a84-fe72-447b-8ce4-7bf6e887fbee.png)
+## CONTEXTO
+
+<p> ➔ Usar o Node para montar um código que vai receber uma lista de
+propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
+essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a
+propriedade que precisamos alterar.
+  <br>
+➔ O código deve rodar em um laço que vai receber propriedades até a
+pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso
+no terminal a lista das propriedades ordenadas de A-Z uma em cada linha </p>
+<hr>
 
 
 
