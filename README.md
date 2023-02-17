@@ -23,7 +23,7 @@ Através do Node.js é realizado a contrução do código que recebe uma lista d
  ### Clone o Repositório 
  
  ```bash
-$ git clone https://github.com/EloisePR/Projeto-Individual-M5
+$ git clone https://github.com/ThiagoJaime/Projeto-PPCss
  ```
  
  ### Utilize os códigos abaixo em seu terminal para verificar o funcionamento do projeto 
